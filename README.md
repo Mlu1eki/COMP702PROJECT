@@ -21,7 +21,7 @@ Here's an updated version of the instructions, including the additional required
      ```
 3. Run the code:
    - Open the file containing your code in your preferred integrated development environment (IDE)
-     ## RECOMMENDED IS GOOGLE COLAB.
+     RECOMMENDED IS GOOGLE COLAB.
    - Make sure the data path has been updated and all the required dependencies are installed.
    - Run the code and wait for it to complete.
 
